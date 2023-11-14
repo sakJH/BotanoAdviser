@@ -1,0 +1,21 @@
+[Nejlepší přírodní léčivo]
+|
+|--[Celkový organismus]
+|  |--[Antioxidanty]--> Ašvaganda, Kurkuma, Matcha, Ženšen, Ginkgo Biloba, Reishi
+|  |--[Imunita]-------> Kotvičník, Ženšen, Reishi
+|
+|--[Kognitivní funkce]
+|  |--[Koncentrace]---> Ašvaganda, Matcha, Ženšen, Ginkgo Biloba, Guarana
+|  |--[Paměť]---------> Maca, Ginkgo Biloba, Guarana
+|
+|--[Relaxace]
+|  |--[Duševní pohoda]-> Ašvaganda, Kotvičník, Maca, Kurkuma, Guarana
+|  |--[Spánek]--------> Ašvaganda, Kotvičník, Maca, Ženšen
+|
+|--[Vitalita]
+|  |--[Energie]-------> Kotvičník, Maca, Guarana
+|  |--[Metabolismus]--> Matcha, Reishi, Guarana
+|
+|--[Zdravý pohyb]
+   |--[Klouby a kosti]-> Boswellia Serrata, Kurkuma
+   |--[Svalová hmota]--> Kotvičník
