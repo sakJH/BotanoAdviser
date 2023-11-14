@@ -13,13 +13,13 @@ Podpůrná role (0-19 %) - Důležité (20-39 %) - Významné (40-59 %) - Velmi 
 |
 |--[Ašvaganda]-----------> Vysoká důležitost
 |
-|--[Matcha]--------------> Klíčová role
+|--[Matcha]--------------> Významné 
 |
 |--[Ženšen]--------------> Významné
 |
-|--[Ginkgo Biloba]-------> Zásadní
+|--[Ginkgo Biloba]-------> Důležité
 |
-|--[Guarana]-------------> Důležité
+|--[Guarana]-------------> Zásadní
 
 [Paměť - důležitost pro bylinky]
 |
