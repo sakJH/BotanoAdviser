@@ -1,0 +1,78 @@
+Podpůrná role (0-19 %) - Důležité (20-39 %) - Významné (40-59 %) - Velmi vysoká důležitost (40-59 %) - Zásadní (80-100 %)
+
+
+[Imunita - důležitost pro bylinky]
+|
+|--[Kotvičník]-----------> Významné
+|
+|--[Ženšen]--------------> Vysoká důležitost
+|
+|--[Reishi]--------------> Zásadní
+
+[Koncentrace - důležitost pro bylinky]
+|
+|--[Ašvaganda]-----------> Vysoká důležitost
+|
+|--[Matcha]--------------> Významné 
+|
+|--[Ženšen]--------------> Významné
+|
+|--[Ginkgo Biloba]-------> Důležité
+|
+|--[Guarana]-------------> Zásadní
+
+[Paměť - důležitost pro bylinky]
+|
+|--[Maca]----------------> Významné
+|
+|--[Ginkgo Biloba]-------> Zásadní
+|
+|--[Guarana]-------------> Důležité
+
+[Duševní pohoda - důležitost pro bylinky]
+|
+|--[Ašvaganda]-----------> Velmi vysoká důležitost
+|
+|--[Kotvičník]-----------> Důležité
+|
+|--[Maca]----------------> Významné
+|
+|--[Kurkuma]-------------> Podpůrná role
+|
+|--[Guarana]-------------> Pozitivní vliv
+
+[Spánek - důležitost pro bylinky]
+|
+|--[Ašvaganda]-----------> Velmi vysoká důležitost
+|
+|--[Kotvičník]-----------> Podpůrná role
+|
+|--[Maca]----------------> Důležité
+|
+|--[Ženšen]--------------> Pozitivní vliv
+
+[Energie - důležitost pro bylinky]
+|
+|--[Kotvičník]-----------> Stimulační účinek
+|
+|--[Maca]----------------> Velmi vysoká důležitost
+|
+|--[Guarana]-------------> Zásadní
+
+[Metabolismus - důležitost pro bylinky]
+|
+|--[Matcha]--------------> Podpůrná role
+|
+|--[Reishi]--------------> Významné
+|
+|--[Guarana]-------------> Důležité
+
+[Klouby a kosti - důležitost pro bylinky]
+|
+|--[Boswellia Serrata]--> Zásadní
+|
+|--[Kurkuma]-------------> Velmi vysoká důležitost
+
+[Svalová hmota - důležitost pro bylinky]
+|
+|--[Kotvičník]-----------> Podpůrná role
