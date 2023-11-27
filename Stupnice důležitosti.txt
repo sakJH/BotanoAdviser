@@ -1,18 +1,5 @@
-﻿Podpůrná role (0-19 %) - Důležité (20-39 %) - Významné (40-59 %) - Velmi vysoká důležitost (60-79 %) - Zásadní (80-100 %)
+Podpůrná role (0-19 %) - Důležité (20-39 %) - Významné (40-59 %) - Velmi vysoká důležitost (60-79 %) - Zásadní (80-100 %)
 
-[Antioxidanty - důležitost pro bylinky]
-|
-|--[Ašvaganda]-----------> Důležité 
-|
-|--[Kurkuma]-------------> Velmi vysoká důležitost
-|
-|--[Matcha]--------------> Důležité 
-|
-|--[Ženšen]--------------> Významné 
-|
-|--[Ginkgo Biloba]-------> Důležité 
-|
-|--[Reishi]--------------> Významné 
 
 [Imunita - důležitost pro bylinky]
 |
